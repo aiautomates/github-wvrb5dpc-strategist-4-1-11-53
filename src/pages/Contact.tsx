@@ -94,11 +94,7 @@ export default function Contact() {
           </div>
 
           {/* GoHighLevel Embedded Inline Form */}
-          <div className="max-w-3xl mx-auto bg-white rounded-xl shadow-lg p-6 sm:p-8">
-            <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-center">
-              Send Us a Message
-            </h2>
-
+          <div>
             <iframe
               src="https://api.leadconnectorhq.com/widget/form/UVyU4dViGa84BHNp7h3y"
               style={{
